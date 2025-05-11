@@ -1,0 +1,10 @@
+# 核心依赖
+torch>=2.0.0
+transformers>=4.37.0
+peft>=0.10.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+tqdm>=4.65.0
+datasets>=2.14.0
+sentencepiece>=0.1.99
+accelerate>=0.27.0
